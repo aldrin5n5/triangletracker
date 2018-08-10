@@ -1,7 +1,7 @@
 function check_triangletracker() {;
-var a = parseFloat(prompt("Enter the Length"));
-var b = parseFloat(prompt("Enter the height"));
-var c = parseFloat(prompt("Enter the height"));
+var a = parseFloat(prompt("Enter the Length Dimenision "));
+var b = parseFloat(prompt("Enter the height Dimenision"));
+var c = parseFloat(prompt("Enter the hpotenus Dimenision"));
  if (a===b && b===c){
     alert("This is an equilateral triangle");
  }
