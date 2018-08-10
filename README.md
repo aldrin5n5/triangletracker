@@ -8,6 +8,8 @@ Equilateral: All sides are equal.
 Isosceles: Exactly 2 sides are equal.
 Scalene: No sides are equal.
 NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the third side.
+## project structure:
+It is a simple application but it also can be modulized. The main logic can be splitted into serveral small pieces. So it will be much easier to maintain, read and test.
 
 ## dig deeper
 This exercise does not test for degenerate triangles.
